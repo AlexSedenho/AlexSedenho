@@ -3,7 +3,7 @@
 - Estudando a **Carreira de Desenvolvimento Back-End Java - Alura**
 ---
 
-### Linguagens
+### Tecnologias & Linguagens
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)

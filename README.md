@@ -5,8 +5,8 @@
 
 ### Tecnologias & Linguagens
 <div>
-<code><img src="https://skillicons.dev/icons?i=vscode" /></code>
-<code><img src="https://skillicons.dev/icons?i=github" /></code>
+<code><img src="https://skillicons.dev/icons?i=vscode&theme=light" /></code>
+<code><img src="https://skillicons.dev/icons?i=github&theme=light" /></code>
 <code><img src="https://skillicons.dev/icons?i=java&theme=light" /></code>
 </div>
 

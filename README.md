@@ -4,8 +4,11 @@
 ---
 
 ### Tecnologias & Linguagens
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,java&theme=light)](https://skillicons.dev)
+<div>
+<code><img src="https://skillicons.dev/icons?i=vscode" /></code>
+<code><img src="https://skillicons.dev/icons?i=github" /></code>
+<code><img src="https://skillicons.dev/icons?i=java&theme=light" /></code>
+</div>
 
 ### Contatos
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-sedenho/)

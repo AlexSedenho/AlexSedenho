@@ -2,7 +2,7 @@
 - Estudante de **Análise e Desenvolvimento de Sistemas - IFSP Câmpus Barretos**
 ---
 
-### Tecnologias & Linguagens
+### Tecnologia & Linguagens
 <div>
   <code><img src="https://skillicons.dev/icons?i=vscode" /></code>
   <code><img src="https://skillicons.dev/icons?i=html" /></code>

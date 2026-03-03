@@ -1,13 +1,13 @@
 # Sobre mim:
 - Estudante de **Análise e Desenvolvimento de Sistemas - IFSP Câmpus Barretos**
-- Estudando a **Carreira de Desenvolvimento Back-End Java - Alura**
 ---
 
 ### Tecnologias & Linguagens
 <div>
   <code><img src="https://skillicons.dev/icons?i=vscode" /></code>
-  <code><img src="https://skillicons.dev/icons?i=github" /></code>
-  <code><img src="https://skillicons.dev/icons?i=java" /></code>
+  <code><img src="https://skillicons.dev/icons?i=html" /></code>
+  <code><img src="https://skillicons.dev/icons?i=css" /></code>
+  <code><img src="https://skillicons.dev/icons?i=javascript" /></code>
 </div>
 
 ### Contatos
